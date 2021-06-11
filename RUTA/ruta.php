@@ -127,12 +127,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="blank">
 
 	<h2>Video Tata Cara Pendaftaran RUTA</h2>  
-	<div>
-		
-	<iframe class="alignmid" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/sh8JV2qPiFA?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode.com/es/</a></small></div><div><small><a href="https://www.unorules.org/uno-wild-card/">https://www.unorules.org/uno-wild-card/</a></small></div><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode.com/nl/</a></small></div><div><small><a href="https://embedfbvideo.com">Embed facebook video</a></small></div><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode.com/es/</a></small></div><div><small><a href="https://embedgooglemaps.com">Google maps embed</a></small></div><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode nl</a></small></div><div><small><a href="https://embedvimeovideo.com">Vimeo embed</a></small></div></iframe>
+	<div>	
+	<iframe style=" width:80%;  display: block;
+  margin-left: auto;
+  margin-right: auto;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/hIA-kyIBOoA?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode.com/nl/</a></small></div><div><small>
+	<a href="https://www.unorules.org/minecraft-uno-rules/">https://www.unorules.org/minecraft-uno-rules/</a></small></div><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode.com/pl/</a></small></div><div><small><a href="http://www.toy-tma.com/">toy-tma</a></small></div><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode.com/es/</a></small></div><div><small><a href="https://embedtwitterwidget.com">Embed twitter feed</a></small></div></iframe>
 	</div>
 
-		<p style="margin-top:500px;">
+		<p style="margin-top:50px;">
 		
 		<h4 style="margin-left:100px;">Pengisian Untuk Kepemilikan Pribadi bisa diakses melalui link dibawah:<h4> 
          <h5><a style="margin-left:100px;"href="https://s.id/RUTABellezza2021Pribadi"target="_blank">https://s.id/RUTABellezza2021BadanHukum</a> </h5><br>
