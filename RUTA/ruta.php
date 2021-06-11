@@ -211,9 +211,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </ul>
 <p><span style="font-weight: 400;">&bull;</span> <span style="font-weight: 400;">Selamat Datang di Bellezza Lifescape!</span></p>
 
-
-
-
+			
+			
+<img  src="images/panduan.jpg" alt="" title="" style=" width:80%;  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:40px"; /> <br>
 
 
 
