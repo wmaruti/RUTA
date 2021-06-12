@@ -126,7 +126,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="inner-block">
     <div class="blank">
 
-	<h2>Video Tata Cara Pendaftaran RUTA</h2>  
+	<h2>Video Tata Cara Pendaftaran RUTA</h2>   
 	<div>	
 	<iframe style=" width:80%;  display: block;
   margin-left: auto;
@@ -143,85 +143,74 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</h3></p>
 
 		<p>
-		
-		<h4>Tata Cara Pendaftaran RUTA:	<h4> 
-		<p><span style="font-weight: 400;">SETELAH UNDANGAN BERHASIL DIKIRIMKAN / PARA PESERTA HARUS MELENGKAPI DOKUMEN-DOKUMEN YANG SAH UNTUK BISA MENGIKUTI RUTA ONLINE 2021 //</span></p>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">BERIKUT TAMPILAN FORMULIR UNTUK MENGISI KELENGKAPAN DATA DIRI CALON PESERTA RUTA DENGAN JENIS KEPEMILIKAN UNIT PRIBADI AKAN MELIPUTI</span></p>
-<ul style="font-weight: normal;">
-<li>NAMA PEMILIK/PENGHUNI, DIISI SESUAI AKTA DAN KARTU IDENTITAS YANG DIBERIKAN</li>
-<li>ALAMAT UNIT, DIISI BERAPA BANYAK UNIT YANG DIMILIKI DAN DIPISAHKAN DENGAN TANDA KOMA (,) UNTUK SETIAP UNITNYA</li>
-<li>STATUS KEPEMILIKAN</li>
-<li>NOMOR PONSEL YANG TERHUBUNG DENGAN APLIKASI PERCAKAPAN WHATSAPP (DIBUTUHKAN UNTUK KOMUNIKASI LANGSUNG KE DEPANNYA)</li>
-<li>EMAIL PEMILIK, AKAN DIGUNAKAN UNTUK KOMUNIKASI DAN JUGA UNTUK FITUR KHUSUS PESERTA NANTINYA (SEPERTI UNTUK MENGUNDUH INFORMASI DARI PANITIA KE PESERTA SEBELUM RUTA DIMULAI)</li>
-<li>KONFIRMASI KEHADIRAN, MENYATAKAN APAKAH CALON PESERTA AKAN HADIR SENDIRI ATAUKAH DIWAKILI KEHADIRANNYA DALAM RUTA</li>
+		<p><strong>Tata Cara Pendaftaran Peserta untuk Dapat Mengikuti Kegiatan RUTA Online:</strong></p><p>&nbsp;</p>
+<p><strong>A. Pemilik / Penghuni Pribadi yang datang sendiri (tidak di wakilkan), wajib melakukan pengisian Formulir Konfirmasi Kehadiran, dengan mengikuti langkah &ndash; langkah sebagai berikut:</strong> </p>
+<ul>
+<li>Calon peserta wajib melakukan pengisian Nama Lengkap yang sesuai dengan Kartu Identitas dan sesuai dengan Bukti Kepemilikan</li>
+<li>Alamat Unit, diisi sesuai dengan jumlah banyaknya Unit yang dimiliki dan dipisahkan dengan tanda koma (,) untuk setiap unitnya</li>
+<li>Wajib mengisi Nomor Ponsel yang terhubung dengan aplikasi percakapan Whatsapp</li>
+<li>Wajib mengisi alamat email yang valid</li>
+<li>Melakukan konfirmasi kehadiran</li>
+<li>Setelah melakukan pengisian, maka Calon Peserta wajib mengklik tombol Next untuk masuk ke menu selanjutnya.</li>
+<li>Pada halaman ini Peserta di wajibkan untuk melakukan Upload Dokumen Resmi dalam bentuk Hasil Scan/Foto, antara lain: KTP, Foto Close up terbaru, Kartu Keluarga (KK), Akte Kepemilikan.</li>
 </ul>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">SETELAH MELAKUKAN PENGISIAN, CALON PESERTA AKAN MENGKLIK TOMBOL NEXT UNTUK MASUK KE MENU SELANJUTNYA.</span></p>
-<p><span style="font-weight: 400;">DI DALAM HALAMAN KEDUA FORMULIR INI, CALON PESERTA DIHARAPKAN MELENGKAPI BERBAGAI DOKUMEN YANG DIBUTUHKAN UNTUK MEMENUHI PERSYARATAN ADMINISTRATIF, YAITU:</span></p>
+<p>&nbsp;<strong>B. Pemilik / Penghuni Pribadi yang memberikan kuasa, wajib mengikuti langkah &ndash; langkah sebagai berikut:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">IDENTITAS, BISA BERUPA HASIL SCAN/FOTO KTP/SIM/PASSPORT</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">FOTO CLOSE UP PEMILIK/PENGHUNI YANG TERBARU, BERUPA HASIL SCAN/FOTO</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">KARTU KELUARGA PEMILIK/PENGHUNI, BERUPA HASIL SCAN/FOTO</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">AKTA KEPEMILIKAN (BAGI PEMILIK) / PERJANJIAN SEWA MENYEWA (BAGI PENGHUNI), BERUPA HASIL SCAN/FOTO</span></li>
+<li>Calon peserta wajib melakukan pengisian Nama Lengkap yang sesuai dengan Kartu Identitas dan sesuai dengan Bukti Kepemilikan</li>
+<li>Alamat Unit, diisi sesuai dengan jumlah banyaknya Unit yang dimiliki dan dipisahkan dengan tanda koma (,) untuk setiap unitnya</li>
+<li>Wajib mengisi Nomor Ponsel yang terhubung dengan aplikasi percakapan Whatsapp</li>
+<li>Wajib mengisi alamat email yang valid</li>
+<li>Melakukan konfirmasi kehadiran dengan memilih di wakilkan</li>
+<li>Setelah melakukan pengisian, maka Calon Peserta wajib mengklik tombol Next untuk masuk ke menu selanjutnya</li>
+<li>Pada halaman ini Peserta di wajibkan untuk melakukan Upload Dokumen Resmi dalam bentuk Hasil Scan/Foto, antara lain: KTP, Foto Close up terbaru, Kartu Keluarga (KK), Akte Kepemilikan</li>
+<li>Selanjutnya melakukan Upload Surat Kuasa yang telah ditanda tangani</li>
+<li>Mengisi nama perwakilan yang akan hadir</li>
+<li>Nomor Ponsel Perwakilan</li>
+<li>Email Perwakilan</li>
+<li>Dan selanjutnya melakukan Upload KTP Perwakilan, Foto Close up Perwakilan</li>
+<li>Catatan Khusus mengenai surat kuasa untuk kepemilikan pribadi, Perwakilannya hanya dapat diberikam kepada keluarga langsung (tercantum dalam kartu keluarga)</li>
 </ul>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">MEKANISME PENGISIAN BERBAGAI FILE HASIL SCAN / FOTO ADALAH SEBAGAI BERIKUT:</span></p>
-<p  style="font-weight: normal;">CALON PESERTA MENGKLIK TOMBOL ADD FILE UNTUK MENAMPILKAN POP-UP BERIKUT INI:</p>
-<ul style="font-weight: normal;">
-	<li>CALON PESERTA DAPAT MENGKLIK TOMBOL SELECT FILE FROM YOUR DEVICE (MEMILIH FILE UNTUK DIUNGGAH KE DALAM SISTEM/FORM), DAN KEMUDIAN AKAN MENAMPILKAN POP-UP BERIKUTNYA</li>
-<li>SETELAH MENGKLIK FILE YANG DIINGINKAN, MAKA TAMPILAN AKAN KEMBALI KE POP-UP WINDOW SEBELUMNYA&nbsp;</li>
-<li>SETELAH MENGKLIK TOMBOL UPLOAD FILE, DOKUMEN AKAN DIUNGGAH KE DALAM SISTEM, DAN FORMULIR AKAN TERISI SEPERTI INI.</li>
-</ul>
-<p><span style="font-weight: 400;">SETELAH SEMUA DOKUMEN YANG DIBUTUHKAN DIISI / CALON PESERTA DAPAT MENGKLIK NEXT UNTUK MASUK KE HALAMAN KETIGA PENGISIAN FORMULIR&nbsp;</span></p>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">HALAMAN KETIGA FORMULIR DIISI JIKA KEDATANGAN KE RUTA DIWAKILKAN, DAN BERISI:</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;<strong>C. Kepemilikan atas Nama Badan Hukum, wajib mengikuti langkah &ndash; langkah sebagai berikut:</strong></p>
 <ul>
-<li style="text-align: left;"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">NAMA PERWAKILAN, BERISI NAMA PERWAKILAN YANG AKAN HADIR PADA RUTA SESUAI DENGAN KARTU IDENTITAS YANG DIBERIKAN</span></li>
-<li style="text-align: left;"><span style="font-weight: 400;">  </span><span style="font-weight: 400;">NOMOR PONSEL PERWAKILAN YANG TERHUBUNG DENGAN APLIKASI PERCAKAPAN WHATSAPP (DIBUTUHKAN UNTUK KOMUNIKASI LANGSUNG KE DEPANNYA)</span></li>
-<li style="text-align: left;"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">EMAIL PERWAKILAN, AKAN DIGUNAKAN UNTUK KOMUNIKASI DAN JUGA UNTUK FITUR KHUSUS PESERTA NANTINYA (SEPERTI UNTUK MENGUNDUH INFORMASI DARI </span><span style="font-weight: 400;">PANITIA KE PESERTA SEBELUM RUTA DIMULAI)</span></li>
-<li style="text-align: left;"><span style="font-weight: 400;">  </span><span style="font-weight: 400;">KTP PERWAKILAN, BISA BERUPA HASIL SCAN/FOTO KTP</span></li>
-<li style="text-align: left;"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">FOTO CLOSE UP PERWAKILAN YANG TERBARU, BERUPA HASIL SCAN/FOTO</span></li>
-<li style="text-align: left;"><span style="font-weight: 400;">  </span><span style="font-weight: 400;">SURAT KUASA, BERUPA HASIL SCAN SURAT KUASA YANG SUDAH DIISI SELENGKAPNYA. TERDAPAT LINK YANG DAPAT DIGUNAKAN UNTUK MENGUNDUH TEMPLATE SURAT KUASA.</span></li>
+<li>Calon peserta wajib mengisi nama pemilik, merupakan nama badan hukum diisi sesuai denga akte perusahaan</li>
+<li>Alamat Unit, diisi sesuai dengan jumlah banyaknya Unit yang dimiliki dan dipisahkan dengan tanda koma (,) untuk setiap unitnya</li>
+<li>Status kepemilikan</li>
+<li>Wajib mengisi Nomor Ponsel yang terhubung dengan aplikasi percakapan Whatsapp</li>
+<li>Wajib mengisi Email Badan Hukum / Pimpinan Badan Hukum</li>
+<li>Selanjutnya mengisi Konfirmasi kehadiran, menyatakan apakah Pimpinan Badan Hukum akan hadir sendiri atau diwakilkan kehadirannya dalam RUTA</li>
+<li>Setelah itu melengkapi dokumen hasil scan/foto: Identitas Pimpinan Badan Hukum, Foto Close Up, Akte Pendirian berikut perubahannya</li>
+<li>Jika diberikan wakil ke karyawan maka wajib melakukan pengisian nama perwakilan, melakukan Upload KTP Perwakilan, Foto Close up terbaru perwakilan, Upload Surat Kuasa serta Surat Keterangan Karyawan Tetap</li>
 </ul>
-<p><span style="font-weight: 400;">CATATAN KHUSUS MENGENAI SURAT KUASA / UNTUK KEPEMILIKAN PRIBADI PERWAKILAN HANYA DAPAT DIBERIKAN KEPADA KELUARGA LANGSUNG (TERCANTUM DI DALAM KARTU KELUARGA)&nbsp;</span></p>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">DI DALAM CONTOH INI/ PEMILIK PRIBADI MEMUTUSKAN AKAN DATANG SENDIRI, SEHINGGA HALAMAN TERSEBUT TIDAK PERLU DIISI, DAN DAPAT LANGSUNG MENGKLIK TOMBOL SUBMIT&nbsp;</span></p>
-		</p>
-	
-		<h3>&nbsp;</h3>
-<h4><strong>Pendaftaran Lifescape</strong></h4>
-<h4><strong>PANDUAN MENGGUNAKAN APLIKASI :</strong></h4>
-<h2><strong>1.</strong> <strong>iOS (iPhone, iPad):</strong></h2>
-<ul>
-<li><span style="font-weight: 400;">Buka Aplikasi APP Store</span></li>
-<li><span style="font-weight: 400;">Ketik di Kolom Pencarian "Bellezza Lifescape"</span></li>
-<li><span style="font-weight: 400;">Klik Install Aplikasi</span></li>
-<li><span style="font-weight: 400;">Langkah selanjutnya,silakan membuka aplikasi yang telah di download</span></li>
-<li><span style="font-weight: 400;">Silakan pilih menu Sign Up dan melakukan proses registrasi</span></li>
-<li><span style="font-weight: 400;">Setelah proses registrasi selesai, silakan kembali ke menu aplikasi dan masukkan Username dan Password yang telah anda buat sebelumnya</span></li>
-<li><span style="font-weight: 400;">Selamat Datang di Bellezza Lifescape !</span></li>
-</ul>
-<h2><strong>2.</strong><span style="font-weight: 400;">&nbsp; </span><strong>Android (Samsung, Xiaomi, Oppo,etc)</strong></h2>
-<ul>
-<li><span style="font-weight: 400;">Buka aplikasi Play Store</span></li>
-<li><span style="font-weight: 400;">Ketik di Kolom Pencarian "Bellezza Lifescape"seperti disamping ini</span></li>
-<li><span style="font-weight: 400;">Klik Install Aplikasi.</span></li>
-<li><span style="font-weight: 400;">Langkah selanjutnya,silakan membuka aplikasi yang telah di download.</span></li>
-<li><span style="font-weight: 400;">Silakan pilih menu Sign Up dan melakukan proses registrasi</span></li>
-<li><span style="font-weight: 400;">Setelah proses registrasi selesai, silakan kembali ke menu aplikasi dan masukkan Usemame dan Password yang telah anda buat sebelumnya.</span></li>
-</ul>
-<p><span style="font-weight: 400;">&bull;</span> <span style="font-weight: 400;">Selamat Datang di Bellezza Lifescape!</span></p>
+<p>&nbsp;</p>
 
-			
-			
-<img  src="images/panduan.jpg" alt="" title="" style=" width:80%;  display: block;
+
+<p><strong>Tata Cara Peserta Dalam Mengikuti Kegiatan RUTA Online:</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setelah mengisi form konfirmasi kehadiran, kemudian peserta akan mendapatkan surat konfirmasi ruta dari panitia, di dalam surat tersebut terdapat link zoom meeting dan pasword beserta dengan user id zoom yang akan digunakan oleh peserta pada saat hari H.</p>
+<p>Surat konfirmasi kehadiran akan dikirimkan kepada peserta melalui berbagai media yang informasinya sudah disampaikan pada waktu pendaftaran, yaitu melalui email dan whatsapp peserta</p>
+<p>Pada saat hari H pelaksanaan RUTA, peserta dapat login kedalam zoom 2jam sebelum RUTA dimulai, saat RUTA sedang berlangsung akan ada voting untuk beberapa hal berikut :</p>
+<ul>
+<li>Laporan Pertanggung jawaban operasional periode tahun 2019 dan 2020 dan Laporan Keuangan Auded periode tahun 2019 dan 2020.</li>
+<li>Pengesahan House Rule Hunian dan Non Hunian.</li>
+</ul>
+<p>&nbsp;</p>
+<p>peserta dapat melaksanakan voting saat form voting sudah di tampilkan panitia:</p>
+<ul>
+<li>peserta voting akan memilih opsi dari daftar pilihan yang tersedia pada saat voting.</li>
+<li>peserta kemudian mengklik tombol send yang ada di bagian paling bawah.</li>
+<li>setelah memberikan suara, akan tampil keterangan voting diterima.</li>
+</ul>
+<p>proses ini dapat diulang untuk setiap pertanyaan yang dibutuhkan, peserta juga dapat melihat hasil voting melalui zoom yang sudah disiapkan oleh panitia.</p>
+
+<!-- <iframe style=" width:100%;  display: block; height:100%; 
   margin-left: auto;
-  margin-right: auto;
-  margin-top:40px"; /> <br>
+  margin-right: auto;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://docs.google.com/document/d/e/2PACX-1vRkUI38k4yA8eC34bJfEFqPZVD3Nm7RDFt_yLc_rNlZ5kfphbg40OL5m5eP0Pcd1OFjnmNsodtsirjc/pub?embedded=true"></iframe> -->
 
+<!-- <div>
+<iframe style=" width:100%;  margin-left: auto;  margin-right: auto; display: block; " frameborder="0" scrolling="yes" marginheight="0" marginwidth="0"width="788.54" height="843" type="text/html"src="https://docs.google.com/document/d/e/2PACX-1vRkUI38k4yA8eC34bJfEFqPZVD3Nm7RDFt_yLc_rNlZ5kfphbg40OL5m5eP0Pcd1OFjnmNsodtsirjc/pub?embedded=true"></iframe>
 
-
+	</div> -->
 	</div>
 </div>
 <!--inner block end here-->
@@ -254,7 +243,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div id='submenu1' class="collapse sidebar-submenu">
 				<li>
                 <a href="ruta.php"><i class="fa fa-cog" style="margin-top: 10px"></i><span style="margin-top: -90px">Informasi RUTA</span></a>
-              </li>
+
+			</li>
             </div>
           </ul>
         </div>
