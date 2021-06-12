@@ -195,7 +195,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <li>Pengesahan House Rule Hunian dan Non Hunian.</li>
 </ul>
 <p>&nbsp;</p>
-<p>peserta dapat melaksanakan voting saat form voting sudah di tampilkan panitia:</p>
+<p>peserta dapat melaksanakan voting saat form voting sudah di tampilkan dengan tahapan seperti berikut :</p>
 <ul>
 <li>peserta voting akan memilih opsi dari daftar pilihan yang tersedia pada saat voting.</li>
 <li>peserta kemudian mengklik tombol send yang ada di bagian paling bawah.</li>
