@@ -137,7 +137,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<p style="margin-top:50px;">
 		
 		<h4 style="margin-left:100px;">Pengisian Untuk Kepemilikan Pribadi bisa diakses melalui link dibawah:<h4> 
-         <h5><a style="margin-left:100px;"href="https://s.id/RUTABellezza2021Pribadi"target="_blank">https://s.id/RUTABellezza2021BadanHukum</a> </h5><br>
+         <h5><a style="margin-left:100px;"href="https://s.id/RUTABellezza2021Pribadi"target="_blank">https://s.id/RUTABellezza2021Pribadi</a> </h5><br>
 		 <h4 style="margin-left:100px;">Pengisian Untuk Kepemilikan Badan Hukum bisa diakses melalui link dibawah:</h4> 
 		 <h5><a style="margin-left:100px;" href=" https://s.id/RUTABellezza2021BadanHukum"­ target="_blank">https://s.id/RUTABellezza2021BadanHukum</a> </h5><br>
 	</h3></p>
