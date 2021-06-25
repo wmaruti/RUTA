@@ -126,7 +126,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="inner-block">
     <div class="blank">
 
-	<h2>Video dan Tata Cara Pendaftaran RUTA</h2>   
+	<h2 style="color:black;"><b>Video dan Tata Cara Pendaftaran RUTA</b></h2>   
 	<div>	
 	<iframe style=" width:80%;  display: block;
   margin-left: auto;
@@ -149,7 +149,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <li style="font-weight: 400;"><span style="font-weight: 400;">Rapat Umum Tahunan yang telah memenuhi kuorum dan prosedur sebagaimana diatur dalam Anggaran Dasar, dapat mengambil keputusan yang sah untuk menerima atau menolak pertanggungjawaban kepengurusan Perhimpunan.</span></li>
 </ol>
 <p>&nbsp;</p>
-<p><strong>Untuk dapat mengikuti RUTA diharuskan memiliki kriteria berikut:</strong></p>
+<p><strong>Syarat syarat untuk dapat mengikuti RUTA diharuskan memiliki kriteria berikut:</strong></p>
 <ol>
 <li>Pemilik hunian dan non hunian satuan rumah susun The Bellezza Permata Hijau, harus sudah berusia dewasa (berusia di atas 17 tahun) dan telah melengkapi data hunian seperti KTP, Kartu Keluarga (KK) dan PPJB/AJB/SHM.</li>
 <li>Pemilik hunian dan non hunian yang dapat mengikuti rapat umum tahunan harus sudah menyelesaikan kewajibannya terhadap pembayaran service charge, sinking fund dan utility sampai dengan bulan diadakan rapat umum tahunan.</li>
@@ -303,7 +303,7 @@ harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan ke
 <li style="font-weight: normal;">Jangan lupa, kamu harus memiliki kamera dan mikrofon yang bisa berfungsi agar pengalaman menggunakan Zoom Meeting bisa lebih maksimal.<br /><br /></li>
 </ul>
 Cara install aplikasi ZOOM Meeting Melalui Komputer atau Laptop:<br />&nbsp;&nbsp; 
-a. Kunjungi halaman download Zoom Meeting<br />&nbsp;&nbsp; 
+a. Kunjungi halaman <a href="https://zoom.us/support/download" >download Zoom Meeting</a><br />&nbsp;&nbsp; 
 b. Tunggu hingga proses download selesai <br />&nbsp;&nbsp; 
 c. Buka file yang baru saja di-download<br />&nbsp;&nbsp; 
 d. Selesai! Sekarang kamu sudah dapat mengikuti meeting online <br />
