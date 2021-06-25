@@ -133,9 +133,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   margin-right: auto;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/hIA-kyIBOoA?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode.com/nl/</a></small></div><div><small>
 	<a href="https://www.unorules.org/minecraft-uno-rules/">https://www.unorules.org/minecraft-uno-rules/</a></small></div><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode.com/pl/</a></small></div><div><small><a href="http://www.toy-tma.com/">toy-tma</a></small></div><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode.com/es/</a></small></div><div><small><a href="https://embedtwitterwidget.com">Embed twitter feed</a></small></div></iframe>
 	</div>
-
+	<br><br>
 	<p><strong>RUTA BELLEZZA 2021</strong></p>
-<p><strong>Rapat Umum Tahunan( Ruta) :</strong></p>
+<p><strong>Rapat Umum Tahunan(RUTA) :</strong></p>
 <ol>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Rapat Umum Tahunan yang diadakan setahun sekali, setelah berakhirnya tahun buku Perhimpunan.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Dalam Rapat Umum Tahunan meliputi berikut ini:</span></li>
@@ -150,52 +150,105 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </ol>
 <p>&nbsp;</p>
 <p><strong>Untuk dapat mengikuti RUTA diharuskan memiliki kriteria berikut:</strong></p>
+<ol>
+<li>Pemilik hunian dan non hunian satuan rumah susun The Bellezza Permata Hijau, harus sudah berusia dewasa (berusia di atas 17 tahun) dan telah melengkapi data hunian seperti KTP, Kartu Keluarga (KK) dan PPJB/AJB/SHM.</li>
+<li>Pemilik hunian dan non hunian yang dapat mengikuti rapat umum tahunan harus sudah menyelesaikan kewajibannya terhadap pembayaran service charge, sinking fund dan utility sampai dengan bulan diadakan rapat umum tahunan.</li>
+</ol>
+<ol start="3">
+<li>Surat kuasa apabila unit tersebut dikuasakan berikut dengan KTP pemberi dan penerima kuasa (untuk non hunian harus melampirkan surat keterangan karyawan tetap), dengan ketentuan mengenai pemberian kuasa sebagai berikut:</li>
+</ol>
+<ol style="list-style-type: lower-alpha;">
+<li style="margin-left:40px;">Jika kuasa dari pemilik unit / per orangan dapat memberikan kuasa ke : istri/suami, orang tua kandung suami/istri atau saudara kandung, atau anak yang sudah dewasa dan terdaftar dalam 1 kartu keluarga, dengan mengisi surat kuasa yang sudah disediakan oleh panitia;</li>
+<li style="margin-left:40px;">Jika pemilik unit adalah badan hukum maka dapat memberikan kuasa kepada: salah satu pengurus yang namanya tercantum didalam akte badan hukum atau karyawan tetap yang dibuktikan dengan surat pengangkatan karyawan tetap oleh salah satu pengurus perusahaan, dengan mengisi surat kuasa yang sudah disediakan oleh panitia;</li>
+<li style="margin-left:40px;">Penerima kuasa hanya dapat mewakili 1 (satu) orang pemilik unit, penerima kuasa hanya dapat mewakili 1 (satu) anggota perhimpunan, dan dalam hal pemilik perorangan mempunyai lebih dari 1 (satu) unit maka pemberian kuasa terkait keseluruhan unit tersebut hanya dapat diberikan pada 1 (satu) orang penerima kuasa.</li>
+</ol>
+<ol start="4">
+<li>Konfirmasi Kehadiran</li>
+</ol>
+<ol style="list-style-type: lower-alpha;">
+<li style="margin-left:40px;">Setiap pemilik hunian dan non hunian satuan rumah susun The Bellezza Permata Hijau, wajib melakukan konfirmasi kehadiran atau perwakilan yang akan ikut sebagai peserta rapat secara virtual, paling lambat tanggal<strong> 05 Juli 2021 </strong>melalui tautan yang dikirimkan kepada masing-masing pemilik hunian dan non hunian satuan rumah susun The Bellezza Permata Hijau.</li>
+<li style="margin-left:40px;">Dokumen kelengkapan yang perlu dilengkapi pada saat melakukan konfirmasi kehadiran melalui tautan yang disampaikan PPPSRS The Bellezza Permata Hijau, dapat dikirimkan melalui website <a href="https://Bellezza.id/RUTA">https://Bellezza.id/RUTA</a> (case sensitive), dan untuk dokumen fisiknya wajib diserahkan secara langsung ke Building Management The Bellezza Permata Hijau, menggunakan amplop putih dan menuliskan informasi: &ldquo;RUTA 2021, &lt;nama&gt;, &lt;dan no. unit&gt;&rdquo; paling lambat tanggal <strong>02 Juli 2021</strong> dengan menyertakan dokumen sebagai berikut:</li>
+</ol>
+<!-- <p>&nbsp;</p> -->
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Peserta yang sah adalah Tenant Pemilik Unit di The Bellezza Permata Hijau</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Pemilik unit yang dapat mengikuti kegiatan tersebut yang sudah membayar tagihan pada bulan ini dan tidak memiliki tunggakan tagihan pada bulan bulan sebelumnya.</span></li>
+<li style="margin-left:40px;">Fotokopi KTP dan alamat email pemilik unit yang akan mengikuti RUTA Online;</li>
+</ul>
+<ul>
+<li style="margin-left:40px;">Fotokopi KTP dan alamat email penerima kuasa yang akan mengikuti RUTA Online (apabila pemilik tidak bisa hadir dan dikuasakan);</li>
+</ul>
+<ul>
+<li style="margin-left:40px;">Surat kuasa dengan tanda tangan basah diatas meterai Rp. 10.000,- (apabila pemilik tidak bisa hadir dan dikuasakan). Surat kuasa tersebut dapat diunduh melalui link website berikut:</li>
+</ul>
+<ol style="list-style-type: lower-roman;">
+<li style="margin-left:60px;">Untuk kepemilikan atas nama pribadi: <u> <a href="https://s.id/RUTABellezza2021Pribadi"><strong> https://s.id/RUTABellezza2021Pribadi</strong></a></u></li>
+<li style="margin-left:60px;">Untuk kepemilikan atas nama badan hukum<u> <a href="https://s.id/RUTABellezza2021Badanhukum"><strong>https://s.id/RUTABellezza2021Badanhukum</strong></a></u>&nbsp;</li>
+</ol>
+<ul style="list-style-type: disc;">
+<li style="margin-left:40px;">Fotokopi Kartu Keluarga (KK) dan PPJB/AJB/SHM atas unit yang dimiliki di The Bellezza Permata Hijau. (Untuk keperluan notaris)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
 </ul>
 <p>&nbsp;</p>
 <p><strong>Kebutuhan yang harus dilengkapi dalam mengikuti RUTA sebagai berikut :</strong></p>
-<p>&nbsp;</p>
+
 <!-- <ul> -->
-<li><strong>Mengisi formulir pendaftaran Online melalui google form yang sudah disediakan</strong></li>
+<li><strong>Sebelum mengisi form registrasi pada Google Form diharapkan membaca persyaratan dokumen-dokumen yang telah discan untuk dipersiapkan serta tata cara pengisian form registrasi</strong></li>
 <!-- </ul> -->
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Pribadi bisa diakses melalui link berikut: </span><a href="https://s.id/RUTABellezza2021Pribadi"><strong>https://s.id/RUTABellezza2021Pribadi</strong></a></p>
-<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Badan Hukum bisa diakses melalui link berikut: </span><a href="https://s.id/RUTABellezza2021BadanHukum"><strong>https://s.id/RUTABellezza2021BadanHukum</strong></a></p>
+<p><strong>Mengisi formulir pendaftaran Online melalui google form yang sudah disediakan</strong></p>
+<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Pribadi bisa diakses melalui link berikut: <br></span><a href="https://s.id/RUTABellezza2021Pribadi"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://s.id/RUTABellezza2021Pribadi</strong></a></p><br>
+<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Badan Hukum bisa diakses melalui link berikut: <br></span><a href="https://s.id/RUTABellezza2021BadanHukum"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://s.id/RUTABellezza2021BadanHukum</strong></a></p>
+
+<br>
 
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Dokumen yang harus dipersiapkan untuk pengisian form diatas:&rsquo;</span></li>
-</ul>
-<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; Lampiran Untuk Kepemilikan Pribadi:&nbsp;</span></p>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dokumen-dokumen yang telah discan yang harus dipersiapkan untuk pengisian form diatas:</span></li>
+</ul><br>
+<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;<strong> 
+Untuk Kepemilikan Pribadi Harap Menyiapkan Dokumen-dokumen yang telah discan seperti Berikut:&nbsp; <strong></span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">KTP/Passpor</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Foto Close Up Terbaru</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Kartu Keluarga</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Untuk kehadiran Kepemilikan Pribadi yang diwakilkan diharuskan melampirkan :</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">
+Untuk kehadiran Kepemilikan Pribadi yang diwakilkan diharuskan menyiapkan dokumen yang telah discan seperti berikut :</span></li>
 <ul>
-<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://s.id/SuratKuasaRUTA"><strong>https://s.id/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas, setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> maka berkas surat kuasa dapat diserahkan kepada BM atau dapat dititipkan di lobi apartment masing-masing.</span></li>
+<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://s.id/SuratKuasaRUTA"><strong>https://s.id/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas, setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> 
+maka berkas surat kuasa yang telah diisi serta di berikan tanda tangan basah dan materai Rp10.000,
+harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan kedalam amplop yang sudah diberi nama unit dan pemilik.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">KTP Perwakilan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Foto Close Up Terbaru Perwakilan</span></li>
 </ul>
-</ul>
-<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;">Lampiran Untuk Kepemilikan Badan Hukum:</span></p>
+</ul><br>
+
+
+<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp; </span><span style="font-weight: 400;"><strong> 
+Untuk Kepemilikan Badan Hukum Harap Menyiapkan Dokumen-dokumen yang telah discan seperti Berikut:</strong></span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">KTP/PASSPORT</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">KTP/Passpor</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Foto Close Up Terbaru</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Akta Pendirian Perusahaan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Akta Pendirian Perusahaan Revisi</span></li>
-</ul>
-<p><span style="font-weight: 400;">Untuk kehadiran Kepemilikan Badan Hukum yang diwakilkan diharuskan melampirkan :</span></p>
+<!-- <ul> -->
+<li style="font-weight: 400;"><span style="font-weight: 400;">
+Untuk kehadiran Kepemilikan Badan Hukum yang diwakilkan diharuskan menyiapkan dokumen yang telah discan seperti berikut :</span></li>
 <ul>
-<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://s.id/SuratKuasaRUTA"><strong>https://s.id/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas, setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> maka berkas surat kuasa dapat diserahkan kepada BM atau dapat dititipkan di lobi apartment masing-masing.</span></li>
+<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://s.id/SuratKuasaRUTA"><strong>https://s.id/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas, setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> 
+maka berkas surat kuasa yang telah diisi serta di berikan tanda tangan basah dan materai Rp10.000,
+harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan kedalam amplop yang sudah diberi nama unit dan pemilik.</span></li>
+
 <li style="font-weight: 400;"><span style="font-weight: 400;">KTP Perwakilan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Foto Close Up Terbaru Perwakilan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Hasil Scan Surat Keterangan Karyawan Tetap</span></li>
 </ul>
-<p>&nbsp;</p>
+</ul><br>
+
+
+
+
 <p><span style="font-weight: 400;">Setelah melakukan registrasi pada google form maka dalam waktu 1x24 jam setelah registrasi akan diberikan username dan password untuk peserta login ke lifescape agar dapat melihat laporan yg akan dibahas pada saat RUTA berlangsung.</span></p>
-<p><strong>Tata Cara Pendaftaran Peserta untuk Dapat Mengikuti Kegiatan RUTA Online:</strong></p>
+
+
+<p>&nbsp;</p>
+<p><strong>Tata Cara Pendaftaran Dan Pengisian oleh Peserta untuk Dapat Mengikuti Kegiatan RUTA Online:</strong></p>
 <p><strong>1. Pemilik / Penghuni Pribadi yang datang sendiri (tidak di wakilkan), wajib melakukan pengisian Formulir&nbsp; Konfirmasi Kehadiran, dengan mengikuti langkah &ndash; langkah sebagai berikut:</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Calon peserta wajib melakukan pengisian Nama Lengkap yang sesuai dengan Kartu Identitas dan sesuai dengan Bukti Kepemilikan</span></li>
@@ -204,7 +257,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi alamat email yang valid</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Melakukan konfirmasi kehadiran</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Setelah melakukan pengisian, maka Calon Peserta wajib mengklik tombol Next untuk masuk ke menu selanjutnya.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Pada halaman ini Peserta di wajibkan untuk melakukan Upload Dokumen Resmi dalam bentuk Hasil Scan/Foto, antara lain: KTP, Foto Close up terbaru, Kartu Keluarga (KK), Akte Kepemilikan.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pada halaman ini Peserta di wajibkan untuk melakukan Upload Dokumen Resmi dalam bentuk Hasil Scan/Foto, antara lain: KTP, Foto Close up terbaru, Kartu Keluarga (KK).</span></li>
 </ul>
 <p><strong>&nbsp;2. Pemilik / Penghuni Pribadi yang memberikan kuasa, wajib mengikuti langkah &ndash; langkah sebagai berikut:</strong></p>
 <ul>
@@ -214,7 +267,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi alamat email yang valid</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Melakukan konfirmasi kehadiran dengan memilih di wakilkan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Setelah melakukan pengisian, maka Calon Peserta wajib mengklik tombol Next untuk masuk ke menu selanjutnya</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Pada halaman ini Peserta di wajibkan untuk melakukan Upload Dokumen Resmi dalam bentuk Hasil Scan/Foto, antara lain: KTP, Foto Close up terbaru, Kartu Keluarga (KK), Akte Kepemilikan</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pada halaman ini Peserta di wajibkan untuk melakukan Upload Dokumen Resmi dalam bentuk Hasil Scan/Foto, antara lain: KTP, Foto Close up terbaru, Kartu Keluarga (KK).</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Selanjutnya melakukan Upload Surat Kuasa yang telah ditanda tangani</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Mengisi nama perwakilan yang akan hadir</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Nomor Ponsel Perwakilan</span></li>
@@ -237,20 +290,50 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <p><strong>Tata Cara Peserta Dalam Mengikuti Kegiatan RUTA Online:</strong></p>
 <p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setelah mengisi form konfirmasi kehadiran, kemudian peserta akan mendapatkan surat konfirmasi ruta dari panitia, di dalam surat tersebut terdapat link zoom meeting dan pasword beserta dengan user id zoom yang akan digunakan oleh peserta pada saat hari H.</span></p>
 <p><span style="font-weight: 400;">Surat konfirmasi kehadiran akan dikirimkan kepada peserta melalui berbagai media yang informasinya sudah disampaikan pada waktu pendaftaran, yaitu melalui email dan whatsapp peserta</span></p>
-<p><strong>Pada saat hari H pelaksanaan RUTA, peserta dapat login kedalam zoom 2jam sebelum RUTA dimulai, saat RUTA sedang berlangsung akan ada voting untuk beberapa hal berikut :</strong></p>
+<p><b>Pada saat hari H pelaksanaan RUTA, peserta dapat login kedalam zoom 2jam sebelum RUTA dimulai</b></p>
+<br>
+<p>Untuk dapat memasuki Meeting ZOOM dapat mengikuti langkah-langkah berikut:</p>
+<ol>
+<li style="font-weight: normal;">Pastikan peserta memiliki koneksi internet.</li>
+<li style="font-weight: normal;">jika peserta belum memiliki aplikasi ZOOM, peserta dapat mengikuti langkah berikut:<br />Sebelum menerapkan cara instal Zoom Meeting di laptop dan HP berikut ini, pastikan kamu telah memenuhi kriteria berikut:<br />
+<ul style="list-style-type: square;">
+<li style="font-weight: normal;">Pastikan kamu terhubung dengan internet berkecepatan minimal 3G. Zoom Meeting akan menyesuaikan kualitas gambar dengan <em>bandwidth</em> internetmu, tapi kamu harus memiliki <em>bandwidth </em>dengan minimal 600kbps hingga 1,2Mbps.</li>
+<li style="font-weight: normal;">Jika menggunakan laptop dengan sistem operasi (OS) Windows, pastikan OS yang kamu miliki adalah Windows 7 ke atas dan jika menggunakan MacOS, Zoom Meeting dapat diinstall dengan minimal MacOS X di atas versi 10.10</li>
+<li style="font-weight: normal;">Jika menggunakan perangkat tablet Apple (iPad), pastikan kamu menggunakan OS minimal iPad OS 13 ke atas dan untuk HP dengan iOS, gunakan minimal iOS 8 ke atas. Namun, jika menggunakan HP Android, kamu harus mempunyai OS minimal 5.0x Lollipop.</li>
+<li style="font-weight: normal;">Jangan lupa, kamu harus memiliki kamera dan mikrofon yang bisa berfungsi agar pengalaman menggunakan Zoom Meeting bisa lebih maksimal.<br /><br /></li>
+</ul>
+Cara install aplikasi ZOOM Meeting Melalui Komputer atau Laptop:<br />&nbsp;&nbsp; 
+a. Kunjungi halaman download Zoom Meeting<br />&nbsp;&nbsp; 
+b. Tunggu hingga proses download selesai <br />&nbsp;&nbsp; 
+c. Buka file yang baru saja di-download<br />&nbsp;&nbsp; 
+d. Selesai! Sekarang kamu sudah dapat mengikuti meeting online <br />
+
+<br />Cara install aplikasi ZOOM Meeting Melalui Android atau IOS:<br />&nbsp;&nbsp; 
+a. Kunjungi Google Play Store dan cari aplikasi ZOOM Cloud Meetings atau klik tautan mengunduh Zoom Meeting untuk Google Play Store ini.<br />&nbsp;&nbsp; 
+b. Klik &ldquo;Install&rdquo;.<br />&nbsp;&nbsp; 
+c. Tunggu hingga selesai diunduh, setelah itu klik &ldquo;Buka&rdquo;.<br />&nbsp;&nbsp;
+d. Pilih &ldquo;Join a Meeting&rdquo;, &ldquo;Sign Up&rdquo;, atau &ldquo;Sign in&rdquo; dan kamu sudah dapat menggunakan aplikasi Zoom Meeting dari HP.<br />&nbsp; </li>
+
+<li style="font-weight: normal;">Jika peserta sudah mengingstall aplikasi ZOOM, selanjutnya peserta mengklik link zoom yang telah diberikan melalui PC, Laptop, Tab &amp; Smarthphone maka akan terdapat 2 opsi yang terdiri dari masuk menggunakan aplikasi ZOOM atau ZOOM Web lalu pilih salah satunya.</li>
+<li style="font-weight: normal;">Mengisi Screen Name sesuai template yang diberikan panitia, seperti contoh berikut ini: "AT09-01-Amalia".</li>
+<li style="font-weight: normal;">Lalu klik join dan peserta akan masuk ke waiting room, yang dimana panitia akan memverifikasi data sebelum meeting ZOOM dimulai.</li>
+<li style="font-weight: normal;">Jika data peserta sesuai dengan data konfirmasi pada google form maka peserta akan masuk keruang meeting ZOOM.</li>
+</ol>
+<br>
+<p><strong>Saat RUTA sedang berlangsung akan ada voting untuk beberapa hal berikut :</strong></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Laporan Pertanggung jawaban operasional periode tahun 2019 dan 2020 dan Laporan Keuangan Auded periode tahun 2019 dan 2020.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Pengesahan House Rule Hunian dan Non Hunian.</span></li>
 </ul>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><strong>peserta dapat melaksanakan voting saat form voting sudah di tampilkan dengan tahapan seperti berikut :</strong></p>
+<p><strong>Peserta dapat melaksanakan voting saat form voting sudah di tampilkan dengan tahapan seperti berikut :</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">peserta voting akan memilih opsi dari daftar pilihan yang tersedia pada saat voting.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">peserta kemudian mengklik tombol send yang ada di bagian paling bawah.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">setelah memberikan suara, akan tampil keterangan voting diterima.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Peserta voting akan memilih opsi dari daftar pilihan yang tersedia pada saat voting.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Peserta kemudian mengklik tombol send yang ada di bagian paling bawah.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Setelah memberikan suara, akan tampil keterangan voting diterima.</span></li>
 </ul>
-<p><span style="font-weight: 400;">proses ini dapat diulang untuk setiap pertanyaan yang dibutuhkan, peserta juga dapat melihat hasil voting melalui zoom yang sudah disiapkan oleh panitia.</span></p>
-<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Proses ini dapat diulang untuk setiap pertanyaan yang dibutuhkan, peserta juga dapat melihat hasil voting melalui zoom yang sudah disiapkan oleh panitia.</span></p>
+<!-- <p>&nbsp;</p>
 <p><span style="font-weight: 400;">Setelah mengisi form konfirmasi kehadiran, kemudian peserta akan mendapatkan surat konfirmasi ruta dari panitia, di dalam surat tersebut terdapat link zoom meeting dan pasword beserta dengan user id zoom yang akan digunakan oleh peserta pada saat hari H.</span></p>
 <p><span style="font-weight: 400;">Surat konfirmasi kehadiran akan dikirimkan kepada peserta melalui berbagai media yang informasinya sudah disampaikan pada waktu pendaftaran, yaitu melalui email dan whatsapp peserta</span></p>
 <p><span style="font-weight: 400;">Pada saat hari H pelaksanaan RUTA, peserta dapat login kedalam zoom 2jam sebelum RUTA dimulai, saat RUTA sedang berlangsung akan ada voting untuk beberapa hal berikut :</span></p>
@@ -261,12 +344,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <p><span style="font-weight: 400;">Peserta dapat melaksanakan voting saat form voting sudah di tampilkan panitia:</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">peserta voting akan memilih opsi dari daftar pilihan yang tersedia pada saat voting.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">peserta kemudian mengklik tombol send yang ada di bagian paling bawah.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">setelah memberikan suara, akan tampil keterangan voting diterima.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Peserta voting akan memilih opsi dari daftar pilihan yang tersedia pada saat voting.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Peserta kemudian mengklik tombol send yang ada di bagian paling bawah.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Setelah memberikan suara, akan tampil keterangan voting diterima.</span></li>
 </ul>
-<p><span style="font-weight: 400;">proses ini dapat diulang untuk setiap pertanyaan yang dibutuhkan, peserta juga dapat melihat hasil voting melalui zoom yang sudah disiapkan oleh panitia.</span></p>
-<p><br /><br /></p>
+<p><span style="font-weight: 400;">Proses ini dapat diulang untuk setiap pertanyaan yang dibutuhkan, peserta juga dapat melihat hasil voting melalui zoom yang sudah disiapkan oleh panitia.</span></p>
+<p><br /><br /></p> -->
+
+
+
 <!-- <iframe style=" width:100%;  display: block; height:100%; 
   margin-left: auto;
   margin-right: auto;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://docs.google.com/document/d/e/2PACX-1vRkUI38k4yA8eC34bJfEFqPZVD3Nm7RDFt_yLc_rNlZ5kfphbg40OL5m5eP0Pcd1OFjnmNsodtsirjc/pub?embedded=true"></iframe> -->
