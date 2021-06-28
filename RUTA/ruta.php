@@ -134,7 +134,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<a href="https://www.unorules.org/minecraft-uno-rules/">https://www.unorules.org/minecraft-uno-rules/</a></small></div><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode.com/pl/</a></small></div><div><small><a href="http://www.toy-tma.com/">toy-tma</a></small></div><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode.com/es/</a></small></div><div><small><a href="https://embedtwitterwidget.com">Embed twitter feed</a></small></div></iframe>
 	</div>
 	<br><br>
-	<p><strong>RUTA BELLEZZA 2021</strong></p>
+	<center><p><strong>RUTA BELLEZZA 2021</strong></p></center>
 <p><strong>Rapat Umum Tahunan(RUTA) :</strong></p>
 <ol>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Rapat Umum Tahunan yang diadakan setahun sekali, setelah berakhirnya tahun buku Perhimpunan.</span></li>
