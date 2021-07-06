@@ -141,8 +141,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <li style="font-weight: 400;"><span style="font-weight: 400;">Dalam Rapat Umum Tahunan meliputi berikut ini:</span></li>
 
 <ul style="list-style-type: circle;">
-<li><span style="font-weight: 400;"> Pengurus memberikan laporan pertanggungjawaban mengenai kepengurusan Perhimpunan dan administrasi keuangan selama tahun buku yang lalu.</span></li>
-<li><span style="font-weight: 400;"> Pengurus memberikan Laporan Keuangan Perhimpunan tahun buku yang lalu yang telah diaudit oleh Akuntan Publik yang independen, harus diajukan kepada rapat untuk mendapatkan persetujuan dan pengesahan.</span></li>
+<li><span style="font-weight: 400;"> Pengurus melalui Building Management memberikan laporan pertanggungjawaban mengenai kepengurusan Perhimpunan dan administrasi keuangan selama tahun buku yang lalu.</span></li>
+<li><span style="font-weight: 400;"> Pengurus melalui Building Management memberikan Laporan Keuangan Perhimpunan tahun buku yang lalu yang telah diaudit oleh Akuntan Publik yang independen, harus diajukan kepada rapat untuk mendapatkan persetujuan dan pengesahan.</span></li>
 <li><span style="font-weight: 400;"> Membahas hal-hal lain yang seharusnya diajukan dalam Rapat Umum Tahunan sesuai dengan Anggaran Dasar Perhimpunan.</span></li>
 </ul>
 
