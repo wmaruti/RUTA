@@ -162,7 +162,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <li style="margin-left:40px;">Jika pemilik unit adalah badan hukum maka dapat memberikan kuasa kepada: salah satu pengurus yang namanya tercantum didalam akte badan hukum atau karyawan tetap yang dibuktikan dengan surat pengangkatan karyawan tetap oleh salah satu pengurus perusahaan, dengan mengisi surat kuasa yang sudah disediakan oleh panitia;</li>
 <li style="margin-left:40px;">Penerima kuasa hanya dapat mewakili 1 (satu) orang pemilik unit, penerima kuasa hanya dapat mewakili 1 (satu) anggota perhimpunan, dan dalam hal pemilik perorangan mempunyai lebih dari 1 (satu) unit maka pemberian kuasa terkait keseluruhan unit tersebut hanya dapat diberikan pada 1 (satu) orang penerima kuasa.</li>
 </ol>
+<!--  -->
 <ol start="4">
+<li>Penyelenggara dan Peserta Rapat yang hadir secara fisik dalam Rapat yang diselenggarakan baik secara tatap muka maupun virtual wajib mengikuti protokol kesehatan yang diberlakukan secara ketat, sebagai berikut:</li>
+</ol>
+<ol style="list-style-type: lower-alpha;">
+<li style="margin-left:40px;">Sudah divaksinasi COVID-19 hingga dosis kedua dibuktikan dengan sertifikat vaksinasi yang dikeluarkan oleh pedulilindungi.id, dan/atau bukti vaksinasi yang dikeluarkan oleh Lembaga yang berwenang.</li>
+<li style="margin-left:40px;">Menunjukkan hasil tes negatif swab antigen COVID-19 1 x24 jam sebelum tanggal pelaksanaan rapat.; </li>
+<li style="margin-left:40px;">Bagi peserta rapat yang baru menerima vaksin COVID-19 dosis pertama atau sama sekali belum menerima vaksin COVPD-19, wajib menunjukkan kepada Penyelenggara Rapat hasil tes negatif tes PCR 2x24 jam sebelum tanggal pelaksanaan rapat.</li>
+<li style="margin-left:40px;">Wajib menggunakan masker, mencuci tangan, dan menjaga jarak antar peserta rapat selama berada di area gedung tempat penyelenggaraan Rapat dan selama Rapat berlangsung.</li>
+
+</ol>
+<!--  -->
+<ol start="5">
 <li>Konfirmasi Kehadiran</li>
 </ol>
 <ol style="list-style-type: lower-alpha;">
