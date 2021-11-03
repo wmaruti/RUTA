@@ -192,8 +192,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <li style="margin-left:40px;">Surat kuasa dengan tanda tangan basah diatas meterai Rp. 10.000,- (apabila pemilik tidak bisa hadir dan dikuasakan). Surat kuasa tersebut dapat diunduh melalui link website berikut:</li>
 </ul>
 <ol style="list-style-type: lower-roman;">
-<li style="margin-left:60px;">Untuk kepemilikan atas nama pribadi: <u> <a href="https://s.id/RUTABellezza2021Pribadi"><strong> https://s.id/RUTABellezza2021Pribadi</strong></a></u></li>
-<li style="margin-left:60px;">Untuk kepemilikan atas nama badan hukum<u> <a href="https://s.id/RUTABellezza2021Badanhukum"><strong>https://s.id/RUTABellezza2021Badanhukum</strong></a></u>&nbsp;</li>
+<li style="margin-left:60px;">Untuk kepemilikan atas nama pribadi: <u> <a href="https://bit.ly/RUTABellezza2021Pribadi"><strong> https://bit.ly/RUTABellezza2021Pribadi</strong></a></u></li>
+<li style="margin-left:60px;">Untuk kepemilikan atas nama badan hukum<u> <a href="https://bit.ly/RUTABellezza2021Badanhukum"><strong>https://bit.ly/RUTABellezza2021Badanhukum</strong></a></u>&nbsp;</li>
 </ol>
 <ul style="list-style-type: disc;">
 <li style="margin-left:40px;">Fotokopi Kartu Keluarga (KK) dan PPJB/AJB/SHM atas unit yang dimiliki di The Bellezza Permata Hijau. (Untuk keperluan notaris)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
