@@ -206,8 +206,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- </ul> -->
 <p>&nbsp;</p>
 <p><strong>Mengisi formulir pendaftaran Online melalui google form yang sudah disediakan</strong></p>
-<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Pribadi bisa diakses melalui link berikut: <br></span><a href="https://s.id/RUTABellezza2021Pribadi"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://s.id/RUTABellezza2021Pribadi</strong></a></p><br>
-<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Badan Hukum bisa diakses melalui link berikut: <br></span><a href="https://s.id/RUTABellezza2021BadanHukum"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://s.id/RUTABellezza2021BadanHukum</strong></a></p>
+<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Pribadi bisa diakses melalui link berikut: <br></span><a href="https://bit.ly/RUTABellezza2021Pribadi"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://bit.ly/RUTABellezza2021Pribadi</strong></a></p><br>
+<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Badan Hukum bisa diakses melalui link berikut: <br></span><a href="https://bit.ly/RUTABellezza2021BadanHukum"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://bit.ly/RUTABellezza2021BadanHukum</strong></a></p>
 
 <br>
 
@@ -223,7 +223,7 @@ Untuk Kepemilikan Pribadi Harap Menyiapkan Dokumen-dokumen yang telah discan sep
 <li style="font-weight: 400;"><span style="font-weight: 400;">
 Untuk kehadiran Kepemilikan Pribadi yang diwakilkan diharuskan menyiapkan dokumen yang telah discan seperti berikut :</span></li>
 <ul>
-<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://s.id/SuratKuasaRUTA"><strong>https://s.id/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas, setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> 
+<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://bit.ly/SuratKuasaRUTA"><strong>https://bit.ly/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas, setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> 
 maka berkas surat kuasa yang telah diisi serta di berikan tanda tangan basah dan materai Rp10.000,
 harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan kedalam amplop yang sudah diberi nama unit dan pemilik.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">KTP Perwakilan</span></li>
@@ -243,7 +243,7 @@ Untuk Kepemilikan Badan Hukum Harap Menyiapkan Dokumen-dokumen yang telah discan
 <li style="font-weight: 400;"><span style="font-weight: 400;">
 Untuk kehadiran Kepemilikan Badan Hukum yang diwakilkan diharuskan menyiapkan dokumen yang telah discan seperti berikut :</span></li>
 <ul>
-<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://s.id/SuratKuasaRUTA"><strong>https://s.id/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas, setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> 
+<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://bit.ly/SuratKuasaRUTA"><strong>https://bit.ly/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas, setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> 
 maka berkas surat kuasa yang telah diisi serta di berikan tanda tangan basah dan materai Rp10.000,
 harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan kedalam amplop yang sudah diberi nama unit dan pemilik.</span></li>
 
