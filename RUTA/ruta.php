@@ -168,8 +168,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </ol>
 <ol style="list-style-type: lower-alpha;">
 <li style="margin-left:40px;">Sudah divaksinasi COVID-19 hingga dosis kedua dibuktikan dengan sertifikat vaksinasi yang dikeluarkan oleh pedulilindungi.id, dan/atau bukti vaksinasi yang dikeluarkan oleh Lembaga yang berwenang.</li>
-<li style="margin-left:40px;">Menunjukkan hasil tes negatif swab antigen COVID-19 1 x24 jam sebelum tanggal pelaksanaan rapat.; </li>
-<li style="margin-left:40px;">Bagi peserta rapat yang baru menerima vaksin COVID-19 dosis pertama atau sama sekali belum menerima vaksin COVPD-19, wajib menunjukkan kepada Penyelenggara Rapat hasil tes negatif tes PCR 2x24 jam sebelum tanggal pelaksanaan rapat.</li>
+<!-- <li style="margin-left:40px;">Menunjukkan hasil tes negatif swab antigen COVID-19 1 x24 jam sebelum tanggal pelaksanaan rapat.; </li> -->
+<!-- <li style="margin-left:40px;">Bagi peserta rapat yang baru menerima vaksin COVID-19 dosis pertama atau sama sekali belum menerima vaksin COVID-19, wajib menunjukkan kepada Penyelenggara Rapat hasil tes negatif tes PCR 2x24 jam sebelum tanggal pelaksanaan rapat.</li> -->
 <li style="margin-left:40px;">Wajib menggunakan masker, mencuci tangan, dan menjaga jarak antar peserta rapat selama berada di area gedung tempat penyelenggaraan Rapat dan selama Rapat berlangsung.</li>
 
 </ol>
@@ -192,8 +192,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <li style="margin-left:40px;">Surat kuasa dengan tanda tangan basah diatas meterai Rp. 10.000,- (apabila pemilik tidak bisa hadir dan dikuasakan). Surat kuasa tersebut dapat diunduh melalui link website berikut:</li>
 </ul>
 <ol style="list-style-type: lower-roman;">
-<li style="margin-left:60px;">Untuk kepemilikan atas nama pribadi: <u> <a href="https://bit.ly/RUTABellezza2021Pribadi"><strong> https://bit.ly/RUTABellezza2021Pribadi</strong></a></u></li>
-<li style="margin-left:60px;">Untuk kepemilikan atas nama badan hukum<u> <a href="https://bit.ly/RUTABellezza2021Badanhukum"><strong>https://bit.ly/RUTABellezza2021Badanhukum</strong></a></u>&nbsp;</li>
+<li style="margin-left:60px;">Untuk kepemilikan atas nama pribadi: <u> <a href="https://s.id/RUTABellezza2021Pribadi"><strong> https://s.id/RUTABellezza2021Pribadi</strong></a></u></li>
+<li style="margin-left:60px;">Untuk kepemilikan atas nama badan hukum<u> <a href="https://s.id/RUTABellezza2021BadanHukum"><strong>https://s.id/RUTABellezza2021BadanHukum</strong></a></u>&nbsp;</li>
 </ol>
 <ul style="list-style-type: disc;">
 <li style="margin-left:40px;">Fotokopi Kartu Keluarga (KK) dan PPJB/AJB/SHM atas unit yang dimiliki di The Bellezza Permata Hijau. (Untuk keperluan notaris)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
@@ -219,9 +219,13 @@ Untuk Kepemilikan Pribadi Harap Menyiapkan Dokumen-dokumen yang telah discan sep
 <li style="font-weight: 400;"><span style="font-weight: 400;">
 Untuk kehadiran Kepemilikan Pribadi yang diwakilkan diharuskan menyiapkan dokumen yang telah discan seperti berikut :</span></li>
 <ul>
-<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://bit.ly/SuratKuasaRUTA"><strong>https://bit.ly/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas, setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> 
+<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://s.id/SuratKuasaRUTA"><strong>https://s.id/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas dengan format (.JPG .PNG  dan .pdf), setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> 
 maka berkas surat kuasa yang telah diisi serta di berikan tanda tangan basah dan materai Rp10.000,
 harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan kedalam amplop yang sudah diberi nama unit dan pemilik.</span></li>
+<li style="font-weight: 400;"><strong>SURAT PERNYATAAN KEBENARAN DOKUMEN,</strong><span style="font-weight: 400;"> file</span><strong> SURAT PERNYATAAN KEBENARAN DOKUMEN</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://s.id/SURAT_PERNYATAAN_KEBENARAN_DOKUMEN"><strong>https://s.id/SURAT_PERNYATAAN_KEBENARAN_DOKUMEN</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas dengan format (.JPG .PNG dan .pdf), setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>SURAT PERNYATAAN KEBENARAN DOKUMEN,</strong><span style="font-weight: 400;"> 
+maka berkas SURAT PERNYATAAN KEBENARAN DOKUMEN yang telah diisi serta di berikan tanda tangan basah dan materai Rp10.000,
+harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan kedalam amplop yang sudah diberi nama unit dan pemilik.</span></li>
+
 <li style="font-weight: 400;"><span style="font-weight: 400;">KTP Perwakilan dalam bentuk gambar dengan format (.JPG .PNG)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Foto Close Up Terbaru Perwakilan dalam bentuk gambar dengan format (.JPG .PNG)</span></li>
 </ul>
@@ -239,8 +243,11 @@ Untuk Kepemilikan Badan Hukum Harap Menyiapkan Dokumen-dokumen yang telah discan
 <li style="font-weight: 400;"><span style="font-weight: 400;">
 Untuk kehadiran Kepemilikan Badan Hukum yang diwakilkan diharuskan menyiapkan dokumen yang telah discan seperti berikut :</span></li>
 <ul>
-<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://bit.ly/SuratKuasaRUTA"><strong>https://bit.ly/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas, setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> 
+<li style="font-weight: 400;"><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> file</span><strong> Surat Kuasa</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://s.id/SuratKuasaRUTA"><strong>https://s.id/SuratKuasaRUTA</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas dengan format (.JPG .PNG  dan .pdf), setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>Surat Kuasa,</strong><span style="font-weight: 400;"> 
 maka berkas surat kuasa yang telah diisi serta di berikan tanda tangan basah dan materai Rp10.000,
+harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan kedalam amplop yang sudah diberi nama unit dan pemilik.</span></li>
+<li style="font-weight: 400;"><strong>SURAT PERNYATAAN KEBENARAN DOKUMEN,</strong><span style="font-weight: 400;"> file</span><strong> SURAT PERNYATAAN KEBENARAN DOKUMEN</strong><span style="font-weight: 400;"> untuk perwakilan dapat di unduh melalui link berikut: </span><a href="https://s.id/SURAT_PERNYATAAN_KEBENARAN_DOKUMEN"><strong>https://s.id/SURAT_PERNYATAAN_KEBENARAN_DOKUMEN</strong></a> <span style="font-weight: 400;">setelah di unduh&nbsp; lalu</span><strong> diprint dan diisi dan diberi materai Rp.10.000 serta tanda tangan basah</strong><span style="font-weight: 400;">. selanjutnya dokumen surat kuasa di scan terlebihdulu untuk di upload melalui link diatas dengan format (.JPG .PNG dan .pdf), setelah pengisian form tersebut dan telah meng-upload berkas </span><strong>SURAT PERNYATAAN KEBENARAN DOKUMEN,</strong><span style="font-weight: 400;"> 
+maka berkas SURAT PERNYATAAN KEBENARAN DOKUMEN yang telah diisi serta di berikan tanda tangan basah dan materai Rp10.000,
 harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan kedalam amplop yang sudah diberi nama unit dan pemilik.</span></li>
 
 <li style="font-weight: 400;"><span style="font-weight: 400;">KTP Perwakilan dalam bentuk gambar dengan format (.JPG .PNG)</span></li>
@@ -261,6 +268,7 @@ harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan ke
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Calon peserta wajib melakukan pengisian Nama Lengkap yang sesuai dengan Kartu Identitas dan sesuai dengan Bukti Kepemilikan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Alamat Unit, diisi sesuai dengan jumlah banyaknya Unit yang dimiliki dan dipisahkan dengan tanda koma (,) untuk setiap unitnya</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi Nomor AJB atau nomor SHM</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi Nomor Ponsel yang terhubung dengan aplikasi percakapan Whatsapp</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi alamat email yang valid</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Melakukan konfirmasi kehadiran</span></li>
@@ -271,12 +279,15 @@ harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan ke
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Calon peserta wajib melakukan pengisian Nama Lengkap yang sesuai dengan Kartu Identitas dan sesuai dengan Bukti Kepemilikan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Alamat Unit, diisi sesuai dengan jumlah banyaknya Unit yang dimiliki dan dipisahkan dengan tanda koma (,) untuk setiap unitnya</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi Nomor AJB atau nomor SHM</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi Nomor Ponsel yang terhubung dengan aplikasi percakapan Whatsapp</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi alamat email yang valid</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Melakukan konfirmasi kehadiran dengan memilih di wakilkan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Setelah melakukan pengisian, maka Calon Peserta wajib mengklik tombol Next untuk masuk ke menu selanjutnya</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Pada halaman ini Peserta di wajibkan untuk melakukan Upload Dokumen Resmi dalam bentuk Hasil Scan/Foto, antara lain: KTP, Foto Close up terbaru, Kartu Keluarga (KK).</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Selanjutnya melakukan Upload Surat Kuasa yang telah ditanda tangani</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Selanjutnya melakukan Upload Surat Kuasa yang telah diberi materai dan ditanda tangani</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Selanjutnya melakukan Upload Surat Pernyataan Kebenaran Dokumen telah diberi materai dan ditanda tangani</span></li>
+
 <li style="font-weight: 400;"><span style="font-weight: 400;">Mengisi nama perwakilan yang akan hadir</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Nomor Ponsel Perwakilan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Email Perwakilan</span></li>
@@ -287,6 +298,7 @@ harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan ke
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Calon peserta wajib mengisi nama pemilik, merupakan nama badan hukum diisi sesuai denga akte perusahaan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Alamat Unit, diisi sesuai dengan jumlah banyaknya Unit yang dimiliki dan dipisahkan dengan tanda koma (,) untuk setiap unitnya</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi Nomor AJB atau nomor SHM</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Status kepemilikan</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi Nomor Ponsel yang terhubung dengan aplikasi percakapan Whatsapp</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Wajib mengisi Email Badan Hukum / Pimpinan Badan Hukum</span></li>
@@ -297,8 +309,8 @@ harap diserahkan kepada BM  di lobby apartment masing-masing dengan dimasukan ke
 
 <p>&nbsp;</p>
 <p><strong>Mengisi formulir pendaftaran Online melalui google form yang sudah disediakan</strong></p>
-<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Pribadi bisa diakses melalui link berikut: <br></span><a href="https://bit.ly/RUTABellezza2021Pribadi"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://bit.ly/RUTABellezza2021Pribadi</strong></a></p><br>
-<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Badan Hukum bisa diakses melalui link berikut: <br></span><a href="https://bit.ly/RUTABellezza2021Badanhukum"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://bit.ly/RUTABellezza2021BadanHukum</strong></a></p>
+<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Pribadi bisa diakses melalui link berikut: <br></span><a href="https://s.id/RUTABellezza2021Pribadi"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://s.id/RUTABellezza2021Pribadi</strong></a></p><br>
+<p><span style="font-weight: 400;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-weight: 400;">Pengisian Untuk Kepemilikan Badan Hukum bisa diakses melalui link berikut: <br></span><a href="https://s.id/RUTABellezza2021BadanHukum"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://s.id/RUTABellezza2021BadanHukum</strong></a></p>
 
 
 <p><span style="font-weight: 400;">&nbsp;</span></p>
@@ -391,7 +403,7 @@ d. Pilih &ldquo;Join a Meeting&rdquo;, &ldquo;Sign Up&rdquo;, atau &ldquo;Sign i
 
 <!--copy rights start here-->
 <div class="copyrights">
-	 <p>© 2021 Technical Support Oriana. All Rights Reserved | Design by  <a href="https://www.instagram.com/whymrtdj/" target="_blank"><strong>LIFESCAPE<strong></a> </p>
+	 <!-- <p>© 2021 Technical Support Oriana. All Rights Reserved | Design by  <a href="https://www.instagram.com/whymrtdj/" target="_blank"><strong>LIFESCAPE<strong></a> </p> -->
 </div>	
 <!--COPY rights end here-->
 </div>
